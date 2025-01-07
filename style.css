@@ -358,7 +358,7 @@ img:hover{
   
 
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .logo{
     position: absolute;
     top: 50px;
@@ -391,7 +391,6 @@ img:hover{
   }
   
   .hero4 h1 {
-    padding-top: 70px;
     font-size: 15px;
   }
   
@@ -403,13 +402,11 @@ img:hover{
     text-align: center;
   }
   
- 
-
   .hero h1 {
     font-size: 0;
   }
   .hero2 h1 {
-    padding-top: 30px;
+    
     font-size: 15px;
   }
   
@@ -422,14 +419,15 @@ img:hover{
     
   }
   .subheader {
-    font-size: 7px;
+    font-size: 8px;
   }
   
+  
   .subheader2 {
-    font-size: 7px;
+    font-size: 8px;
   }
   .subheader3 {
-    font-size: 7px;
+    font-size: 8px;
   }
   
   .line2 {
