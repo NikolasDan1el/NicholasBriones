@@ -391,7 +391,7 @@ img:hover{
   }
   
   .hero4 h1 {
-    padding-top: 2rem;
+    padding-top: 70px;
     font-size: 15px;
   }
   
@@ -409,6 +409,7 @@ img:hover{
     font-size: 0;
   }
   .hero2 h1 {
+    padding-top: 30px;
     font-size: 15px;
   }
   
