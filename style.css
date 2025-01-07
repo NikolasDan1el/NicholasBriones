@@ -367,15 +367,15 @@ img:hover{
     color: darkblue;
   }
   .logo2 {
-    font-size: 7px;
+    font-size: 10px;
   }
   
   .logo3 {
-    font-size: 7px;
+    font-size: 10px;
   }
   
   .logo4 {
-    font-size: 7px;
+    font-size: 10px;
   }
   
   .hero3 h1 {
@@ -386,7 +386,7 @@ img:hover{
     flex-direction: column;
     max-width: 600px;
     position: flex;
-    font-size: 1px;
+    font-size: 10px;
     text-align: center;
   }
   
@@ -399,7 +399,7 @@ img:hover{
     flex-direction: column;
     max-width: 600px;
     position: flex;
-    font-size: 1px;
+    font-size: 10px;
     text-align: center;
   }
   
@@ -416,19 +416,19 @@ img:hover{
     flex-direction: column;
     max-width: 600px;
     position: flex;
-    font-size: 1px;
+    font-size: 10px;
     text-align: center;
     
   }
   .subheader {
-    font-size: 2px;
+    font-size: 7px;
   }
   
   .subheader2 {
-    font-size: 2px;
+    font-size: 7px;
   }
   .subheader3 {
-    font-size: 2px;
+    font-size: 7px;
   }
   
   .line2 {
